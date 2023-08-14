@@ -3,21 +3,21 @@ Welcome to my GitHub Page. I am Hilmi Mughid and now I am a student at Politekni
 </p>
 
 ## Programming Language That I Use
-<table border="none">
-  <tr border="none">
-    <td align="center" width="96" border="none">
+<table>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Java Script
     </td>
-    <td align="center" width="96" border="none">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
-    <td align="center" width="96" border="none">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
       <br>Dart
     </td>
-     <td align="center" width="96" border="none">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
