@@ -3,8 +3,8 @@ Welcome to my GitHub Page. I am Hilmi Mughid and now I am a student at Politekni
 </p>
 
 ## Programming Language That I Use
-<table>
-  <tr>
+<table border="none">
+  <tr border="none">
     <td align="center" width="96" border="none">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Java Script
