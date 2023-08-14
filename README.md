@@ -2,7 +2,8 @@
 Welcome to my GitHub Page. I am Hilmi Mughid and now I am a student at Politeknik Negeri Malang
 </p>
 
-## Programming Language That I Use
+## Programming Language That I Use:
+(https://skillicons.dev/icons?i=js)
 <table>
   <tr>
     <td align="center" width="96">
