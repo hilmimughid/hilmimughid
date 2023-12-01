@@ -1,5 +1,5 @@
 <p align="justify">
-Welcome to my GitHub Page. I am Hilmi Mughid and now I am a student at Politeknik Negeri Malang
+Welcome to my GitHub Page. I am a Politeknik Negeri Malang student majoring in computer science
 </p>
 
 ## Programming Language That I Use:
