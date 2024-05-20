@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="justify">
 Welcome to my GitHub Page. I am a Politeknik Negeri Malang student majoring in computer science
 </p>
