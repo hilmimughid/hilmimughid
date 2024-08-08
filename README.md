@@ -3,4 +3,4 @@ Welcome to my GitHub Page. I am a Politeknik Negeri Malang student majoring in c
 </p>
 
 ## My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,git,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,git,mysql)](https://skillicons.dev)
