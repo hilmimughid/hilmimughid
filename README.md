@@ -1,2 +1,2 @@
 ## My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,adonis,sqlite)](https://skillicons.dev)
