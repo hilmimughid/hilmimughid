@@ -1,2 +1,1 @@
-## My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,adonis,sqlite)](https://skillicons.dev)
+![Image Alt](https://github.com/hilmimughid/hilmimughid/blob/73f8ef61af808554088c880df32223a66040cb43/image.png)
